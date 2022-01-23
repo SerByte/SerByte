@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SerByte
-- 👀 I’m interested in c++ coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning JavaScript
 
 <!---
 SerByte/SerByte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
